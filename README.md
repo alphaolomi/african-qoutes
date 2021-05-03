@@ -1,2 +1,3 @@
 # african-qoutes
- A curated list of African quotes
+
+A curated list of African quotes
